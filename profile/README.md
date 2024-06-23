@@ -1,6 +1,6 @@
 # 🏴‍☠️ Ahoy! 
 
-Ahoy, matey! You've stumbled upon the hub for all things Dictionarry. We're a crew of media automation enthusiasts who are passionate about helping fellow pirates navigate the high seas of media automation.
+Ahoy, matey! You've stumbled upon the hub for all things Dictionarry. We're a crew of media automation enthusiasts who are passionate about helping fellow pirates navigate media automation.
 
 ## 🧭 What We Offer
 
@@ -17,4 +17,4 @@ Ahoy, matey! You've stumbled upon the hub for all things Dictionarry. We're a cr
 
 ## 🤝 Contributing
 
-We welcome contributions from all pirates! If you're interested in contributing, please review each project's README wiki to get started, or join our Discord server to chat with the crew.
+We welcome contributions from all! If you're interested in contributing, please review each project's README wiki to get started, or join our Discord server to chat with the crew.
